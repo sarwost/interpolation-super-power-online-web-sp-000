@@ -1,4 +1,4 @@
 # Write your #display_rainbow method here
-def display_rainbow(friYAY)
-   puts "R: #{friYAY[0]}, O: #{friYAY[1]}, Y: #{friYAY[2]}, G: #{firYay[3]}, B: #{friYAY[4]}, B: #{friYAY[5]}, I: #{friYAY[6]}"
+def display_rainbow(colors)
+   puts "R: #{colors[0]}, O: #{colors[1]}, Y: #{colors[2]}, G: #{colors[3]}, B: #{colors[4]}, B: #{colors[5]}, I: #{colors[6]}"
 end 
