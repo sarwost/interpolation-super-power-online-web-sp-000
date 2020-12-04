@@ -1,10 +1,8 @@
 # Write your #display_rainbow method here
 require "pry"
 def display_rainbow(friYAY)
-  binding.pry
   
-  
-  # puts "R: #{display_rainbow[0]}," 
+   puts "R: #{friYAY[0]}," 
   # puts "O: #{display_rainbow[1]},"
   # puts "Y: #{display_rainbow[2]},"
   # puts "G: #{display_rainbow[3]},"
